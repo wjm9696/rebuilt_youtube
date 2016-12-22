@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+
+}
+.Box{
+  height: 130px;
+  background-color: red;
+  padding: 40px;
+
+}
+
+.Search_bar_col{
+  padding: 0px ;
+}
+
+.Search_buttom_col{
+  padding: 0px;
+}
+
+.Search_icon_col{
+  padding: 0px;
+}
+
+.Search_bar{
+  height: 40px;
+  background-color: #ffe6e6;
+}
+
+.Search_buttom{
+  height: 40px;
+  background-color: #ffe6e6;
+
+}
+
+.Search_icon{
+  height: 40px;
+  background-color: #ffe6e6;
+
+}
+
+.ResultList_col{
+  margin-top: 0.5vw;
+  overflow-y: scroll;
+  height: 700px;
+}
+
+.root{
+  background-color: #ffe6e6;
+}
+
+.Result:hover{
+  cursor:pointer;
+  margin-bottom: 3px;
+}
+
+.video_row{
+  padding:10px;
+}
+
+.playbox{
+  margin-top: 20px;
+}
+
+.Result{
+  font-family: 'Raleway', sans-serif;
+}
+
+.title{
+  font-size: 4vw;
+  margin-top: 5px;
+  margin-left: 3.5vw;
+  width: 100px;
+  color:white;
+  font-family: 'Baloo Chettan', cursive;
+}
